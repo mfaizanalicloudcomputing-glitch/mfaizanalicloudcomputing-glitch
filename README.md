@@ -2,7 +2,7 @@
 <h3 align="center">Junior DevOps Engineer | Cloud & Automation Enthusiast ☁️🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Junior+DevOps+Engineer;Azure+Certified+(AZ-900);Cloud+%26+Automation+Enthusiast;Building+CI%2FCD+Pipelines;Learning+Docker+%26+Kubernetes" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Junior+DevOps+Engineer;Azure+Certified+(AZ-900);DevOps+%7C+Cloud+%7C+Automation;Building+CI%2FCD+Pipelines;Learning+Docker+%26+Kubernetes" />
 </p>
 
 ---
@@ -27,9 +27,9 @@ I am <b>Muhammad Faizan Ali</b>, an aspiring <b>Junior DevOps Engineer</b> passi
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfaizanalicloudcomputing-glitch&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mfaizanalicloudcomputing-glitch&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizanalicloudcomputing-glitch&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizanalicloudcomputing-glitch&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -38,9 +38,7 @@ I am <b>Muhammad Faizan Ali</b>, an aspiring <b>Junior DevOps Engineer</b> passi
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com/?user=mfaizanalicloudcomputing-glitch&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -48,9 +46,7 @@ I am <b>Muhammad Faizan Ali</b>, an aspiring <b>Junior DevOps Engineer</b> passi
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
+<img src="https://raw.githubusercontent.com/mfaizanalicloudcomputing-glitch/mfaizanalicloudcomputing-glitch/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -77,6 +73,7 @@ I am <b>Muhammad Faizan Ali</b>, an aspiring <b>Junior DevOps Engineer</b> passi
 🔹 Dockerized Web Application  
 🔹 Kubernetes Deployment  
 🔹 Terraform Infrastructure Automation  
+🔹 Azure Cloud Infrastructure  
 
 ---
 
