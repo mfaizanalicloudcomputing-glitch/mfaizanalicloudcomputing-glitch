@@ -43,10 +43,10 @@ I am <b>Muhammad Faizan Ali</b>, an aspiring <b>Junior DevOps Engineer</b> passi
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 📈 GitHub Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mfaizanalicloudcomputing-glitch/mfaizanalicloudcomputing-glitch/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mfaizanalicloudcomputing-glitch&theme=tokyo-night"/>
 </p>
 
 ---
