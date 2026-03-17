@@ -18,7 +18,7 @@ I am <b>Muhammad Faizan Ali</b>, an aspiring <b>Junior DevOps Engineer</b> passi
 # 🛠️ DevOps & Cloud Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,aws,azure,terraform,jenkins,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,kubernetes,aws,azure,terraform,jenkins,vscode" />
 </p>
 
 ---
